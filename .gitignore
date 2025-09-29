@@ -1,0 +1,23 @@
+
+---
+
+###  `.gitignore`
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# SQLite database (runtime only)
+school.db
+
+# VSCode / Cursor settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
